@@ -1,0 +1,7 @@
+{
+    "apps": {
+        "name"        : "worker-app",
+        "watch"       : true,
+        "script"      : "./worker.js"
+    }
+}
